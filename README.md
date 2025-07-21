@@ -52,8 +52,6 @@ This project analyzes facial expressions in real-time using computer vision and 
 
 - `index.py`: Entry point of the application
 - `requirements.txt`: List of Python dependencies
-- `prabhat_paralysis_report.json`: Example JSON output file
-- `prabhat_paralysis_report.pdf`: Example PDF report
 
 ## Usage
 
